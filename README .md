@@ -60,8 +60,7 @@ Data cleaning and transformation performed in Power Query:
 ---
 
 ## 📷 Dashboard Preview
-
-_image dashboard/Screenshot 2026-01-30 133344.png
+![Dashboard Preview](image%20dashboard/Screenshot%202026-01-30%20133344.png)
 
 ---
 
