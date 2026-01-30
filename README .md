@@ -61,7 +61,7 @@ Data cleaning and transformation performed in Power Query:
 
 ## 📷 Dashboard Preview
 
-_https://github.com/oladimeji-ooluwafunke-analytics/dhl-air-shipping-powerbi-dashboard/tree/main/image%20dashboard
+_image dashboard/Screenshot 2026-01-30 133344.png
 
 ---
 
